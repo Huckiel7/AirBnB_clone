@@ -1,4 +1,3 @@
-@@ -1,76 +1,281 @@
 # 0x01. AirBnB clone - Web static
 # 0x00. AirBnB clone - The console
 
@@ -217,12 +216,10 @@ $
 
 > The commands are displayed in the following format *Command / usage / example with output*
 * Create
-
 > *Creates a new instance of a given class. The class' ID is printed and the instance is saved to the file file.json.*
 ```bash
 create <class>
 ```
-
 ```bash
 (hbnb) create BaseModel
 'Number given'
@@ -253,7 +250,6 @@ show <class> <id>
 ** no instance found **
 (hbnb)
 ```
-
 * all
 
 > *Prints all string representation of all instances of a given class.*
@@ -289,4 +285,3 @@ show <class> <id>
 ## Authors
 Huckiel Sukai < Huckielsukai7@gmail.com >
 Trevoland Nagoor < Trevolandn26@gmail.com >
-
