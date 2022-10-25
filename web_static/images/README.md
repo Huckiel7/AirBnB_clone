@@ -1,1 +1,1 @@
-README just to show the images folder
+This readme contains all icons for AirBnB_clone
